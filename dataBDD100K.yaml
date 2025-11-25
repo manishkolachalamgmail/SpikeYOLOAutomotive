@@ -1,0 +1,13 @@
+# BDD100K Dataset Configuration
+# Date: 2025-11-04 19:30:44 UTC
+# User: manishkolachalamgmail
+
+path: C:\Users\Manish\Documents\SpikeYOLOPaper\BDD100K
+train: images/train
+val: images/val
+test: images/val
+
+nc: 2
+names:
+  - car
+  - pedestrian

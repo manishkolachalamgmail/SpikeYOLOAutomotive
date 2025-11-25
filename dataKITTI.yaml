@@ -1,0 +1,8 @@
+# BDD10K Dataset Configuration
+path: C:\Users\Manish\Documents\SpikeYOLOPaper\KITTIDET  # dataset root dir
+train: images/train  # train images
+val: images/val  # test/validation images
+
+# Classes
+nc: 2  # number of classes
+names: ['car', 'pedestrian']  # class names
